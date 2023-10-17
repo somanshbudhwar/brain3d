@@ -1,2 +1,4 @@
 test.py
-
+# Ignore folders
+/data/
+/data
